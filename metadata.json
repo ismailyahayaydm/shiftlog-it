@@ -1,0 +1,6 @@
+{
+  "name": "ShiftLog IT Handover Notes",
+  "description": "Mobile-friendly single-page shift handover notes app for IT support tickets, incidents, and study tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
